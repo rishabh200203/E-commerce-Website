@@ -5,12 +5,6 @@ Welcome to **MyShop**, a beginner-friendly, full-stack e-commerce website built 
 
 ---
 
-## 📸 Preview
-
-![MyShop Homepage](./images/screenshot-home.png)
-
----
-
 ## 🚀 Features
 
 - 🏠 Home Page with featured products
